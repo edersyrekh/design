@@ -138,3 +138,76 @@ body{
     color: #18191A;
     top: 30px;
 }
+
+
+
+@media screen and (max-width: 576px) {
+    .main{
+        width: 100%;
+        height: 500px;
+    }
+    .black{
+        height: 500px;
+    }
+    .menu{
+        height: 45px;
+    }
+    .logo{
+        width: 60px;
+        height: 45px;
+    }
+    .menu li a{
+        font-size: 8px;
+    }
+    .name{
+        width: 60%;
+        top: 170px;
+    }
+    .name a {
+        font-size: 32px;
+        text-align: center;
+        margin-left: -27%;
+      }
+      .name p{
+        font-size: 12px;
+        margin-left: -30%;
+        text-align: center;
+      }
+      .text{
+        width: 200px;
+        height: 340px;
+        top: -100px;
+      }
+      .text a{
+        font-size: 18px;
+      }
+      .text img{
+        width: 19px;
+      }
+      .text p{
+        font-size: 16px;
+        margin-left: 30px;
+        text-align: justify;
+      }
+      .button{
+        width: 130px;
+        height: 25px;
+      }
+      .button h6{
+        font-size: 12px;
+      }
+      .image{
+        top: 500px;
+        width: 250px;
+        height: 180px;
+        left: 13%;
+      }
+      .footer{
+        height: 50px;
+      }
+      .footer a{
+        font-size: 12px;
+        top: 16px;
+        left: 37%;
+      }
+}
