@@ -166,7 +166,7 @@ body{
     .name a {
         font-size: 32px;
         text-align: center;
-        margin-left: -20%;
+        margin-left: -13%;
       }
       .name p{
         font-size: 12px;
@@ -208,6 +208,6 @@ body{
       .footer a{
         font-size: 12px;
         top: 16px;
-        left: 37%;
+        left: 42%;
       }
 }
